@@ -140,7 +140,7 @@ Cook x 7mins
 
 Serve hot with steamed rice or rotis
 
-![Chicken Curry Grind](./chicken_curry_final.jpeg){:title="Chicken Curry Final"}
+![Chicken Curry](./chicken_curry_final.jpeg){:title="Chicken Curry"}
 
 <br/>
 
@@ -167,4 +167,18 @@ And I shall now go figure out what next to make for you...
 - Spices should be roasted to increase their flavors
 - The heat of the dish may be more for some hence it is advisable to add the chilli powder to taste.
 - This dish goes better with plain white rice.
+
+<br/>
+
+I sure hope you guys liked the recipie.
+
+<br/>
+
+I look forward to your comments and reviews. 
+
+<br/>
+
+Thank you for your support, follow us on <a href="https://www.facebook.com/travelBiryani/" title="Travel Biryani Facebook" target="_blank" rel='external nofollow'> Facebook </a>, <a href="https://www.instagram.com/travelBiryani/" title="Travel Biryani Instagram" target="_blank" rel='external nofollow'> Instagram </a>
+and <a href="https://twitter.com/travelBiryani" title="Travel Biryani Twitter" target="_blank" rel='external nofollow'> Twitter </a> and please do NOT forget to share our recipes.....
+
 

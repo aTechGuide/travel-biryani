@@ -25,7 +25,7 @@ module.exports = {
     {
       resolve: "gatsby-theme-blog-starter",
       options: {
-        trackingId: "UA-27634418-4",
+        trackingId: "UA-27634418-7",
         postsPath: "posts",
         imagesPath: "images",
         postsPerPage: "12",
