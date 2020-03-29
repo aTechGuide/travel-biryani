@@ -2,8 +2,8 @@ import React from 'react';
 
 import { Grid, Typography, Card, CardContent } from "@material-ui/core";
 import { makeStyles } from '@material-ui/core/styles';
-import {useStaticQuery, graphql} from 'gatsby';
-import Img from 'gatsby-image';
+// import {useStaticQuery, graphql} from 'gatsby';
+// import Img from 'gatsby-image';
 
 const useStyles = makeStyles(theme => ({
   postGridItem: {
@@ -24,17 +24,17 @@ const useStyles = makeStyles(theme => ({
 const AboutLayout = () => {
   const classes = useStyles();
 
-  const author = useStaticQuery(graphql`
-    query {
-      file(relativePath: { eq: "kamran_ali.jpg" }) {
-        childImageSharp {
-          fixed(width: 200, height: 300) {
-            ...GatsbyImageSharpFixed
-          }
-        }
-      }
-    }
-  `)
+  // const author = useStaticQuery(graphql`
+  //   query {
+  //     file(relativePath: { eq: "kamran_ali.jpg" }) {
+  //       childImageSharp {
+  //         fixed(width: 200, height: 300) {
+  //           ...GatsbyImageSharpFixed
+  //         }
+  //       }
+  //     }
+  //   }
+  // `)
   
   return (
     <Grid container direction='column' alignItems='center'>
