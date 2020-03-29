@@ -1,11 +1,10 @@
 module.exports = {
   siteMetadata: {
     title: `Travel Biryani`,
-    description: `Food Blog`,
+    description: `Food blog aiming to share easy vegetarian, non vegetarian recipes,  without loosing the authentic taste of regional cuisines, covering Indian recipes and recipes from around the world.`,
     author: `Mehjooba Roushan Mazumdar`,
     twitterId: `@travelBiryani`,
     siteUrl: `https://travelbiryani.com`,
-    //siteUrl: `https://atech-guide.netlify.com`,
     genre: 'Food Tutorials',
     keywords: [`Food Blog`],
     email: `admin@travelbiryani.com`,
