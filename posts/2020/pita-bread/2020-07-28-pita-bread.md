@@ -10,7 +10,7 @@ tags:
   - veg
 label:
   - Pita Bread
-slug: pita-bread-20-minutes
+slug: pita-bread-2-hours
 published: true
 image: ./pita_serving.png
 ---
