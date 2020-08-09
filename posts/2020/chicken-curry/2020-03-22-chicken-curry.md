@@ -20,7 +20,7 @@ Well, we all have faced this at some point in time that we had very little time 
 
 <br/>
 
-![Chicken Curry Grind](./chicken_curry_teaser.jpeg){:title="Chicken Curry Final"}
+![Chicken Curry Grind](./chicken_curry_teaser.png){:title="Chicken Curry Final"}
 
 <br/>
 
@@ -73,14 +73,16 @@ So lets get started
 | <span>&#10003;</span> | Oil                    | 2 to 3 tablespoon           |
 
 <br/>
+<br/>
 
-![Chicken Curry Ingredients](./chicken_curry_ingredients-1.jpeg){:title="Chicken Curry Ingredients"}
+![Chicken Curry Ingredients](./chicken_curry_ingredients-1.png){:title="Chicken Curry Ingredients"}
 
 <br/>
 <br/>
 
-![Chicken Curry Ingredients](./chicken_curry_ingredients-2.jpeg){:title="Chicken Curry Ingredients"}
+![Chicken Curry Ingredients](./chicken_curry_ingredients-2.png){:title="Chicken Curry Ingredients"}
 
+<br/>
 <br/>
 
 **Method**{: .heading1 }
@@ -103,8 +105,12 @@ Roast the remaining dry ingredients for 1 mint and blend them roughly and add to
 
 Next add the blended onion and tomato paste and fry......
 
-![Chicken Curry Grind](./grind.jpeg){:title="Chicken Curry Grind"}
+<br/>
+<br/>
 
+![Chicken Curry Grind](./grind.png){:title="Chicken Curry Grind"}
+
+<br/>
 <br/>
 
 **Step 2:**{: .heading2 }
@@ -119,7 +125,12 @@ Add the
 
 and fry well
 
-![Chicken Curry Ingredients](./chicken_curry_ingredients-3.jpeg){:title="Chicken Curry Ingredients"}
+<br/>
+<br/>
+
+![Chicken Curry Ingredients](./chicken_curry_ingredients-3.png){:title="Chicken Curry Ingredients"}
+
+<br/>
 
 **Step 3:**{: .heading2 }
 
@@ -131,7 +142,10 @@ Mix well...
 
 Add a cup of water
 
-![Chicken Curry Ingredients](./chicken_curry_ingredients-4.jpeg){:title="Chicken Curry Ingredients"}
+<br/>
+<br/>
+
+![Chicken Curry Ingredients](./chicken_curry_ingredients-4.png){:title="Chicken Curry Ingredients"}
 
 
 **Step 4:**{: .heading2 }
@@ -140,7 +154,10 @@ Cook x 7mins
 
 Serve hot with steamed rice or rotis
 
-![Chicken Curry](./chicken_curry_final.jpeg){:title="Chicken Curry"}
+<br/>
+<br/>
+
+![Chicken Curry](./chicken_curry_final.png){:title="Chicken Curry"}
 
 <br/>
 
@@ -153,11 +170,11 @@ Gift the Almighty has bestowed upon us and let us cherish them together.
 
 <br/>
 
-Ahhhhhh...... The very appeal of this dish, go ahead and try it for yourself, I bet you would absolutely love it.....
+Ahhhhhh... The very appeal of this dish, go ahead and try it for yourself, I bet you would absolutely love it.
 
-Go ahead try it the very next chance you get....
+Go ahead try it the very next chance you get.
 
-And I shall now go figure out what next to make for you...
+And I shall now go figure out what next to make for you.
 
 <br/>
 
@@ -179,6 +196,6 @@ I look forward to your comments and reviews.
 <br/>
 
 Thank you for your support, follow us on <a href="https://www.facebook.com/travelBiryani/" title="Travel Biryani Facebook" target="_blank" rel='external nofollow'> Facebook </a>, <a href="https://www.instagram.com/travelBiryani/" title="Travel Biryani Instagram" target="_blank" rel='external nofollow'> Instagram </a>
-and <a href="https://twitter.com/travelBiryani" title="Travel Biryani Twitter" target="_blank" rel='external nofollow'> Twitter </a> and please do NOT forget to share our recipes.....
+and <a href="https://twitter.com/travelBiryani" title="Travel Biryani Twitter" target="_blank" rel='external nofollow'> Twitter </a> and please do NOT forget to share our recipes.
 
 
