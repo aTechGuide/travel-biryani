@@ -110,7 +110,7 @@ IN A PRESSURE COOKER COMBINE
 
 <br/>
 
-Close the lid and let it whistle away to glory.... for a good 8 to 10 whistles.....
+Close the lid and let it whistle away to glory for a good 8 to 10 whistles.
 
 <br/>
 
@@ -143,7 +143,7 @@ Close the lid and let it whistle away to glory.... for a good 8 to 10 whistles..
 
 **Step 2:**{: .heading2 }
 
-As the cooker gets on with its whistling....let us start with the chopping issue
+As the cooker gets on with its whistling. let us start with the chopping issue.
 
 <br/>
 
@@ -232,11 +232,11 @@ We also add a cup of coriander leaves again for an extra bite,at this stage we c
 
 <br/>
 
-One must is aamchur or chaat masala powder.....
+One must is aamchur or chaat masala powder.
 
 <br/>
 
-Which i have added but have forgotten to click....
+Which i have added but have forgotten to click.
 
 <br/>
 
@@ -268,7 +268,7 @@ Shallow fry them with very little oil in a large nonstick pan for approximately 
 
 <br/>
 
-It can also be microwaved for 2 mins for a healthier option....
+It can also be microwaved for 2 mins for a healthier option.
 
 <br/>
 
@@ -283,7 +283,7 @@ And believe me alllll that work is well worth it.
 <br/>
 
 As a kid I remember helping my grandmom make it, it has always been an Eid specialty , or Eid Shami kebab, we all loved it as children and do so still.
-Phewwww..... yum yum
+Phewwww yum yum
 
 <br/>
 <br/>

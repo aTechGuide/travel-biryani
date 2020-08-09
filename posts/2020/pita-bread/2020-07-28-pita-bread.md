@@ -135,7 +135,7 @@ Start kneading the dough well making sure to knead for atleast 10 mins
 <br/>
 <br/>
 
-It should have a smooth consistency by the emd of it
+It should have a smooth consistency by the end of it
 
 <br/>
 <br/>
@@ -212,7 +212,7 @@ Be sure to eat them immediately it does not taste as good when it goes cold.
 
 <br/>
 
-There are several variations of this bread from the middle east to greece and the entire south east asia....however personally this is a recipe that i have found to be really really easy and goes really well with all types of indian gravies specially the spicy ones.....
+There are several variations of this bread from the middle east to greece and the entire south east asia. However, personally this is a recipe that i have found to be really really easy and goes really well with all types of indian gravies specially the spicy ones.
 
 <br/>
 
