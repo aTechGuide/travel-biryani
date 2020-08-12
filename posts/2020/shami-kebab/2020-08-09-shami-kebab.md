@@ -1,10 +1,10 @@
 ---
 title: Chicken Shami Kebab | Food Recipe | 1 Hours
-description: fff
+description: Easy to make Chicken Shami Kebab, can be made with several veg and non veg options ,goes well with mint and mayo chutney , fast to make with minimal ingredients.
 pagetitle: Chicken Shami Kebab
 summary: Shami kebab a flavoursome combination of heavily aromatic spices and melt in the mouth meat, goes well with a variety of Chutney
 date: '2020-08-09'
-update_date: '2020-08-09'
+update_date: '2020-08-12'
 tags:
   - food
   - non veg
