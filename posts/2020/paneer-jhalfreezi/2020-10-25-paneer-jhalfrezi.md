@@ -15,7 +15,7 @@ published: true
 image: ./paneer_jhalfrezi.png
 ---
 
-Paneer is one such ingredient that comes as a saviour when you need a quick and easy meal without having to go through the trouble of finding something delicious easy and quick to make and what is best is it goes great with both rice and chapatis, for the more calaorie conscious, just a bowl of paneer jhalfrezi can cover all the protein requirements with the goodness of veggies too.
+Paneer is one such ingredient that comes as a saviour when you need a quick and easy meal without having to go through the trouble of finding something delicious easy and quick to make and what is best is it goes great with both rice and chapatis, for the more calorie conscious, just a bowl of paneer jhalfrezi can cover all the protein requirements with the goodness of veggies too.
 
 <br/>
 
