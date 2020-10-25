@@ -3,8 +3,8 @@ title: How to cook Paneer Jhalfrezi? [35 to 40 minutes]
 description: Extremely tasty, very easy paneer dry curry best for weekday dinners with an array of veggies packed with proteins vitamins, children usually love it.
 pagetitle: Paneer Jhalfrezi
 summary: Paneer made in an extremely easy preparation that tastes great with rice or chapati, is a joy to the eyes and palate, great for weekday dinners or to please guests in short notice.
-date: '2020-10-24'
-update_date: '2020-10-24'
+date: '2020-10-25'
+update_date: '2020-10-25'
 tags:
   - food
   - veg
