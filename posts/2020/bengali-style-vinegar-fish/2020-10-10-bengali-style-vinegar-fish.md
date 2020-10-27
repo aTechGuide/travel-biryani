@@ -1,5 +1,5 @@
 ---
-title: Bengali Style Vinegar Fish (Illish Maach Vinegar Diye) | Food Recipe | 45 mins
+title: Bengali Style Vinegar Fish (Illish Maach Vinegar Diye) [45 mins]
 description: A Bengali style fish curry with Ilish (Hilsa) fish , a must have dish in all Bengali weddings flavourful and rich in both taste and culture.
 pagetitle: Bengali Style Vinegar Fish (Illish Maach Vinegar Diye)
 summary: Bengali style fish curry, easy to make, best accompanied with white rice elevating the intense flavors of authentic Bengali spices.

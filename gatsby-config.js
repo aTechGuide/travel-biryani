@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Travel Biryani`,
-    description: `Food blog aiming to share easy vegetarian, non vegetarian recipes,  without loosing the authentic taste of regional cuisines, covering Indian recipes and recipes from around the world.`,
+    title: `Indian Food Blog, Easy Recipes with step by step Pictures`,
+    description: `Indian Food blog aiming to share easy vegetarian, non vegetarian recipes,  without loosing the authentic taste of regional cuisines, covering Indian recipes and recipes from around the world.`,
     author: `Mehjooba Roushan Mazumdar`,
     twitterId: `@travelBiryani`,
     siteUrl: `https://travelbiryani.com`,
