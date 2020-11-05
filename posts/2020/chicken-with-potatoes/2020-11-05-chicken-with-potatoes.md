@@ -7,7 +7,7 @@ date: '2020-11-05'
 update_date: '2020-11-05'
 tags:
   - food
-  - veg
+  - non veg
 label:
   - chicken potato gravy
 slug: chicken-with-potatoes-gravy-35-mins
