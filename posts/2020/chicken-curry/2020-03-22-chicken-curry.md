@@ -4,7 +4,7 @@ description: The fastest way to indulge in a sumptuous chicken curry filled with
 pagetitle: Chicken Curry in 20 Minutes
 summary: The fastest way to indulge in a sumptuous chicken curry filled with the bursting earthy flavours of beautiful Indian spices So go ahead and enjoy the treat
 date: '2020-03-22'
-update_date: '2020-03-22'
+update_date: '2020-11-08'
 tags:
   - food
   - non veg
@@ -13,6 +13,33 @@ label:
 slug: chicken-curry-20-minutes
 published: true
 image: ./chicken_curry.png
+prep_time: PT7M
+cook_time: PT13M
+recipe_category: Main Course
+recipe_cuisine: Indian
+recipe_ingredient:
+  - Chicken boneless (500gms)
+  - Bay leaves (2 leaves torn into 4 pieces)
+  - Black cardamom (1 large)
+  - Black peppercorn (10)
+  - Fennel seeds (1/2 teaspoon)
+  - Mustard seeds (1/2 teaspoon)
+  - Cumin seeds whole (1/2 teaspoon)
+  - Carrom seeds (1/4 teaspoon)
+  - Dried red chilies (2 large)
+  - Ginger paste (1 tablespoon)
+  - Garlic paste (1 tablespoon)
+  - Medium tomato (1 Ground to paste)
+  - Large onions (2 Ground to paste)
+  - Ketchup (3 tablespoon)
+  - Soya sauce (2 teaspoon)
+  - Kashmiri chili powder (1tbsp)
+  - Coriander powder (1 tbsp)
+  - Cumin powder (2 tbsp)
+  - Turmeric powder (1 teaspoon)
+  - Sugar (1/4 teaspoon)
+  - Salt (To taste)
+  - Oil (2 to 3 tablespoon)
 ---
 
 **Time**{: .firstword} is an uber precious commodity and with the hustle and bustle of modern day living its getting even more difficult for us to manage a quick dinner after work or entertain sudden dinner guests at home.  
@@ -36,7 +63,7 @@ So lets get started
 
 <br/>
 
-|    Total Cooking        | Time   |
+|    Division  | Time   |
 |--------------|--------|
 | PREP TIME    | 7 mins |
 | COOKING TIME | 13mins |
@@ -51,20 +78,20 @@ So lets get started
 |-----------------------|------------------------|-----------------------------|
 | <span>&#10003;</span> | Chicken boneless       | 500gms                      |
 | <span>&#10003;</span> | Bay leaves             | 2 leaves torn into 4 pieces |
-| <span>&#10003;</span> | Black cardamom         |  1 large                    |
+| <span>&#10003;</span> | Black cardamom         | 1 large                     |
 | <span>&#10003;</span> | Black peppercorn       | 10                          |
-| <span>&#10003;</span> | Fennel seeds           |  1/2 teaspoon               |
+| <span>&#10003;</span> | Fennel seeds           | 1/2 teaspoon                |
 | <span>&#10003;</span> | Mustard seeds          | 1/2 teaspoon                |
 | <span>&#10003;</span> | Cumin seeds whole      | 1/2 teaspoon                |
-| <span>&#10003;</span> | Carrom seeds           |  1/4 teaspoon               |
-| <span>&#10003;</span> |  Dried red chilies     |  2 large                    |
+| <span>&#10003;</span> | Carrom seeds           | 1/4 teaspoon                |
+| <span>&#10003;</span> | Dried red chilies      | 2 large                     |
 | <span>&#10003;</span> | Ginger paste           | 1 tablespoon                |
 | <span>&#10003;</span> | Garlic paste           | 1 tablespoon                |
 | <span>&#10003;</span> | Medium tomato          | 1 Ground to paste           |
 | <span>&#10003;</span> | Large onions           | 2 Ground to paste           |
-| <span>&#10003;</span> | Ketchup                |  3 tablespoon               |
-| <span>&#10003;</span> | Soya sauce             |  2 teaspoon                 |
-| <span>&#10003;</span> |  Kashmiri chili powder | 1tbsp                       |
+| <span>&#10003;</span> | Ketchup                | 3 tablespoon                |
+| <span>&#10003;</span> | Soya sauce             | 2 teaspoon                  |
+| <span>&#10003;</span> | Kashmiri chili powder  | 1tbsp                       |
 | <span>&#10003;</span> | Coriander powder       | 1 tbsp                      |
 | <span>&#10003;</span> | Cumin powder           | 2 tbsp                      |
 | <span>&#10003;</span> | Turmeric powder        | 1 teaspoon                  |

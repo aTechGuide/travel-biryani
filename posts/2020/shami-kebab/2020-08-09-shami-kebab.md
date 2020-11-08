@@ -4,7 +4,7 @@ description: Easy to make Chicken Shami Kebab, can be made with several veg and 
 pagetitle: Chicken Shami Kebab
 summary: Shami kebab a flavoursome combination of heavily aromatic spices and melt in the mouth meat, goes well with a variety of Chutney
 date: '2020-08-09'
-update_date: '2020-08-12'
+update_date: '2020-11-08'
 tags:
   - food
   - non veg
@@ -13,6 +13,33 @@ label:
 slug: chicken-shami-kebab-1-hour
 published: true
 image: ./chicken_shami_kebab_final.png
+prep_time: PT30M
+cook_time: PT30M
+recipe_category: Appetizers
+recipe_cuisine: Indian
+recipe_ingredient: 
+  - Chicken kheema (1kg)
+  - Chana dal or split gram (250gms soaked overnight)
+  - Onions (2 medium)
+  - Coriander leaves (1 cup)
+  - Mint leavesm (1 cup)
+  - One small onion (For the coarse mince)
+  - Cinnamon powder(1 teaspoon)
+  - Cardamom powder (1 teaspoon)
+  - Chat masala (1 tbsp)
+  - Ginger paste (optional)
+  - Garlic cloves (10)
+  - Lemon juice (1 lemon)
+  - White pepper powder (1tbsp or as to taste)
+  - Garlic Powder (1 tbsp)
+  - Onion Powder (1 tbsp)
+  - Kashmiri chili powder (1 1/2tbsp)
+  - Coriander powder (2 tbsp)
+  - Cumin powder (1 1/2 tbsp)
+  - Turmeric powder (1 teaspoon)
+  - Sugar (1/4 teaspoon)
+  - Salt (To taste)
+  - Oil (2 to 3 tablespoon)
 ---
 
 **Traditions live**{: .firstword} on with people, the culture ,the food and the taste.
@@ -68,18 +95,18 @@ Though this recipe is a complicated one however it has been my goal to make it a
 | <span>&#10003;</span> | Chana dal or split gram | 250gms soaked overnight   |
 | <span>&#10003;</span> | Onions                  | 2 medium                  |
 | <span>&#10003;</span> | Coriander leaves        | 1 cup                     |
-| <span>&#10003;</span> | Mint leaves             |  1 cup                    |
+| <span>&#10003;</span> | Mint leaves             | 1 cup                     |
 | <span>&#10003;</span> | One small onion         | For the coarse mince      |
-| <span>&#10003;</span> |  Cinnamon powder        | 1 teaspoon                |
-| <span>&#10003;</span> |  Cardamom powder        | 1 teaspoon                |
-| <span>&#10003;</span> |  Chat masala            | 1 tbsp                    |
+| <span>&#10003;</span> | Cinnamon powder         | 1 teaspoon                |
+| <span>&#10003;</span> | Cardamom powder         | 1 teaspoon                |
+| <span>&#10003;</span> | Chat masala             | 1 tbsp                    |
 | <span>&#10003;</span> | Ginger paste            | optional                  |
 | <span>&#10003;</span> | Garlic cloves           | 10                        |
 | <span>&#10003;</span> | Lemon juice             | 1 lemon                   |
 | <span>&#10003;</span> | White pepper powder     | 1tbsp or as to taste      |
-| <span>&#10003;</span> | Garlic Powder           |  1 tbsp                   |
-| <span>&#10003;</span> | Onion Powder            |  1 tbsp                   |
-| <span>&#10003;</span> |  Kashmiri chili powder  | 1 1/2tbsp                 |
+| <span>&#10003;</span> | Garlic Powder           | 1 tbsp                    |
+| <span>&#10003;</span> | Onion Powder            | 1 tbsp                    |
+| <span>&#10003;</span> | Kashmiri chili powder   | 1 1/2tbsp                 |
 | <span>&#10003;</span> | Coriander powder        | 2 tbsp                    |
 | <span>&#10003;</span> | Cumin powder            | 1 1/2 tbsp                |
 | <span>&#10003;</span> | Turmeric powder         | 1 teaspoon                |

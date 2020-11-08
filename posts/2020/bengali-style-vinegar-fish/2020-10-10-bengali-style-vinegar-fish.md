@@ -4,7 +4,7 @@ description: A Bengali style fish curry with Ilish (Hilsa) fish , a must have di
 pagetitle: Bengali Style Vinegar Fish (Illish Maach Vinegar Diye)
 summary: Bengali style fish curry, easy to make, best accompanied with white rice elevating the intense flavors of authentic Bengali spices.
 date: '2020-10-10'
-update_date: '2020-10-10'
+update_date: '2020-11-08'
 tags:
   - food
   - non veg
@@ -13,6 +13,24 @@ label:
 slug: bengali-style-vinegar-fish-45-minutes
 published: true
 image: ./fish_curry_cover.png
+prep_time: PT30M
+cook_time: PT15M
+recipe_category: Main Course
+recipe_cuisine: Indian
+recipe_ingredient:
+  - Hilsa fish (1kg)
+  - Garlic paste (2 teaspoon)
+  - Onion Paste (of 3 medium to large onions)
+  - Black peppercorn (5)
+  - Mustard seeds (1/2 teaspoon)
+  - Whole green  (6 slit in halves)
+  - Red chilli powder (1/2 teaspoon)
+  - Mustard oil (2 tablespoons)
+  - Turmeric powder (1/2 teaspoon)
+  - Coriander powder (1/2 teaspoon)
+  - Cumin powder (1/2 teaspoon)
+  - Vinegar (3 tablespoons (red vinegar is preferred over white vinegar))
+  - Soy Sauce (1 teaspoon)
 ---
 
 **Fish**{: .firstword} is an integral part of the Bengali Foodstyle and over time beautiful fish recipes have been born out of the Bengali's love for fish. Authentic Bengali fish curries were the result of experimentation for easily available and cheap sources of proteins in the entire undivided Bengal. 
@@ -56,16 +74,16 @@ Serves 6
 |-----------------------|----------------------|--------------------------------------------------------------|
 | <span>&#10003;</span> | Hilsa fish           | 1kg                                                          |
 | <span>&#10003;</span> | Garlic paste         | 2 teaspoon                                                   |
-| <span>&#10003;</span> | Onion Paste          |  of 3 medium to large onions                                 |
+| <span>&#10003;</span> | Onion Paste          | of 3 medium to large onions                                  |
 | <span>&#10003;</span> | Black peppercorn     | 5                                                            |
-| <span>&#10003;</span> | Mustard seeds        |  1/2 teaspoon                                                |
-| <span>&#10003;</span> | Whole green chillies |  6 slit in halves                                            |
-| <span>&#10003;</span> | Red chilli powder    |  1/2 teaspoon                                                |
-| <span>&#10003;</span> | Mustard oil          |  2 tablespoons                                               |
-| <span>&#10003;</span> | Turmeric powder      |  1/2 teaspoon                                                |
-| <span>&#10003;</span> | Coriander powder     |  1/2 teaspoon                                                |
-| <span>&#10003;</span> | Cumin powder         |  1/2 teaspoon                                                |
-| <span>&#10003;</span> | Vinegar              |  3 tablespoons (red vinegar is preferred over white vinegar) |
+| <span>&#10003;</span> | Mustard seeds        | 1/2 teaspoon                                                 |
+| <span>&#10003;</span> | Whole green chillies | 6 slit in halves                                             |
+| <span>&#10003;</span> | Red chilli powder    | 1/2 teaspoon                                                 |
+| <span>&#10003;</span> | Mustard oil          | 2 tablespoons                                                |
+| <span>&#10003;</span> | Turmeric powder      | 1/2 teaspoon                                                 |
+| <span>&#10003;</span> | Coriander powder     | 1/2 teaspoon                                                 |
+| <span>&#10003;</span> | Cumin powder         | 1/2 teaspoon                                                 |
+| <span>&#10003;</span> | Vinegar              | 3 tablespoons (red vinegar is preferred over white vinegar)  |
 | <span>&#10003;</span> | Soy Sauce            | 1 teaspoon                                                   |
 
 <br/>

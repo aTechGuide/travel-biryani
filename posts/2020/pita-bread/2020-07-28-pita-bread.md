@@ -4,7 +4,7 @@ description: Pita bread originated in the middle east and greek cuisine but is e
 pagetitle: Easy Pita Bread
 summary: Easy to make pita bread that goes well with an array of gravys, delightful and worth all the work.
 date: '2020-07-28'
-update_date: '2020-07-28'
+update_date: '2020-11-08'
 tags:
   - food
   - veg
@@ -13,6 +13,18 @@ label:
 slug: pita-bread-2-hours
 published: true
 image: ./pita_serving.png
+prep_time: PT90M
+cook_time: PT20M
+recipe_category: Main Course
+recipe_cuisine: Indian
+recipe_ingredient:
+  - Flour (2+1/2 cups)
+  - Milk (1 cup warm)
+  - Sugar (1 tablespoon)
+  - Salt (1/2 teaspoon)
+  - Yeast (2+ 1/2 teaspoon)
+  - Water (1/2 cup warm)
+  - Oil (2 tablespoon)
 ---
 
 **At times**{: .firstword} when we are bored of the same old rotis with our gravy, we can try something new. 
@@ -48,11 +60,11 @@ Serves 4
 |-----------------------|------------|------------------|
 | <span>&#10003;</span> | Flour      | 2+1/2 cups       |
 | <span>&#10003;</span> | Milk       | 1 cup warm       |
-| <span>&#10003;</span> | Sugar      |  1 tablespoon    |
-| <span>&#10003;</span> | Salt       |   1/2 teaspoon   |
-| <span>&#10003;</span> | Yeast      |  2+ 1/2 teaspoon |
-| <span>&#10003;</span> |  Water     |  1/2 cup warm    |
-| <span>&#10003;</span> |  Oil       | 2 tablespoon     |
+| <span>&#10003;</span> | Sugar      | 1 tablespoon     |
+| <span>&#10003;</span> | Salt       | 1/2 teaspoon     |
+| <span>&#10003;</span> | Yeast      | 2+ 1/2 teaspoon  |
+| <span>&#10003;</span> | Water      | 1/2 cup warm     |
+| <span>&#10003;</span> | Oil        | 2 tablespoon     |
 
 <br/>
 

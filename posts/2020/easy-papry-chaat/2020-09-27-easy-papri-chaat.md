@@ -4,7 +4,7 @@ description: Super fast chaat recipe easy to assort with tangy indian chutney fl
 pagetitle: Easy Papri Chaat
 summary: A flavorful combination of crispy and tangy ingredients with the added freshness and benefits of curd. Ideal recipe for an evening tea party or to entertain sudden guests.
 date: '2020-09-27'
-update_date: '2020-09-27'
+update_date: '2020-11-08'
 tags:
   - food
   - veg
@@ -13,6 +13,29 @@ label:
 slug: easy-papri-chaat-30-minutes
 published: true
 image: ./papri-chaat.png
+prep_time: PT14M
+cook_time: PT6M
+recipe_category: Snack
+recipe_cuisine: Indian
+recipe_ingredient:
+  - Curd (2 cups beaten well)
+  - Sugar (2 teaspoons)
+  - Onions (1/2 finely chopped)
+  - Coriander leaves (1/2 cup)
+  - Mint leaves (1/2 cup (optional))
+  - Salt (To taste)
+  - Chaat masala (1/2 teaspoon)
+  - Mung bean sprouts ((optional))
+  - Sweet tamarind sauce (1 tablespoon (store bought or homemade (combine tamarind pulp ,sugar, a bit of red chilli powder and a spoon of oil and bring to a boil with 1/2 cup water)))
+  - Boiled Potatoes (2 medium sized, (peel cut into 1x1cm cubes and pop in the microwave for 6 mins))
+  - Sev (1 cup)
+  - Lemon juice (1 lemon)
+  - White pepper powder (1tbsp or as to taste)
+  - Boondi (1 cup (optional))
+  - Peanuts (1/4th cup)
+  - Kashmiri chili powder (1 & 1/2tbsp)
+  - Mint sauce (1/2 cup (preparing my grandmum's easy mint chutney will be a separate recipe soon, usually a container of it is stowed in the fridge that lasts up to 15 days))
+  - Green chillies (2 finely chopped (optional))
 ---
 
 **Exceptionally**{: .firstword} easy chaat dish, to tingle the senses. Chaat as we know has several origins and is immensely popular in the entire indian subcontinent, papri chaat is one among the most popular chaat dishes. It is found almost in all the famous street food joints around the world serving Indian chaat, a tamarind and mint sauce is what sets it apart, it is a very very healthy vegetarian option for the diet conscious folks. Packed with proteins and minerals and the goodness of lactobacilli.
@@ -51,28 +74,25 @@ Hope you guys enjoy it.
 <br/>
 
 |                       | Ingredients             | Quantity                                                                                                                                                      |
-|-----------------------|------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <span>&#10003;</span> | Curd                   | 2 cups beaten well                                                                                                                                            |
-| <span>&#10003;</span> | Sugar                  | 2 teaspoons                                                                                                                                                   |
-| <span>&#10003;</span> | Onions                 | 1/2 finely chopped                                                                                                                                            |
-| <span>&#10003;</span> | Coriander leaves       | 1/2 cup                                                                                                                                                       |
-| <span>&#10003;</span> | Mint leaves            |  1/2 cup(optional)                                                                                                                                            |
-| <span>&#10003;</span> | Salt                   | To taste                                                                                                                                                      |
-| <span>&#10003;</span> |  Chaat masala           | 1/2 teaspoon                                                                                                                                                  |
-| <span>&#10003;</span> |  Mung bean sprouts     | (optional)                                                                                                                                                      |
-| <span>&#10003;</span> |  Sweet tamarind sauce  | 1 tablespoon                                                                                                                                                  |
-|                       |                        | (store bought or homemade)                                                                                                                                    |
-|                       |                        | (combine tamarind pulp ,sugar, a bit of red chilli powder                                                                                                     |
-|                       |                        |  and a spoon of oil and bring to a boil with 1/2 cup water)                                                                                                   |
-| <span>&#10003;</span> | Boiled Potatoes        | 2 medium sized, (peel cut into 1x1cm cubes and pop in the microwave for 6 mins)                                                                               |
-| <span>&#10003;</span> | Sev                    | 1 cup                                                                                                                                                         |
-| <span>&#10003;</span> | Lemon juice            | 1 lemon                                                                                                                                                       |
-| <span>&#10003;</span> | White pepper powder    | 1tbsp or as to taste                                                                                                                                          |
-| <span>&#10003;</span> | Boondi                 |  1 cup (optional)                                                                                                                                             |
-| <span>&#10003;</span> | Peanuts                |  1/4th cup                                                                                                                                                    |
-| <span>&#10003;</span> |  Kashmiri chili powder | 1 & 1/2tbsp                                                                                                                                                     |
-| <span>&#10003;</span> | Mint sauce             | 1/2 cup (preparing my grandmum's easy mint chutney will be a separate recipe soon, usually a container of it is stowed in the fridge that lasts up to 15 days) |
-| <span>&#10003;</span> | Green chillies         | 2 finely chopped (optional)                                                                                                                                     |
+|-----------------------|------------------------ |---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <span>&#10003;</span> | Curd                    | 2 cups beaten well                                                                                                                                            |
+| <span>&#10003;</span> | Sugar                   | 2 teaspoons                                                                                                                                                   |
+| <span>&#10003;</span> | Onions                  | 1/2 finely chopped                                                                                                                                            |
+| <span>&#10003;</span> | Coriander leaves        | 1/2 cup                                                                                                                                                       |
+| <span>&#10003;</span> | Mint leaves             | 1/2 cup (optional)                                                                                                                                            | 
+| <span>&#10003;</span> | Salt                    | To taste                                                                                                                                                      |
+| <span>&#10003;</span> | Chaat masala            | 1/2 teaspoon                                                                                                                                                  |
+| <span>&#10003;</span> | Mung bean sprouts       | (optional)                                                                                                                                                    |
+| <span>&#10003;</span> | Sweet tamarind sauce    | 1 tablespoon (store bought or homemade (combine tamarind pulp ,sugar, a bit of red chilli powder and a spoon of oil and bring to a boil with 1/2 cup water))  |
+| <span>&#10003;</span> | Boiled Potatoes         | 2 medium sized, (peel cut into 1x1cm cubes and pop in the microwave for 6 mins)                                                                               |
+| <span>&#10003;</span> | Sev                     | 1 cup                                                                                                                                                         |
+| <span>&#10003;</span> | Lemon juice             | 1 lemon                                                                                                                                                       |
+| <span>&#10003;</span> | White pepper powder     | 1tbsp or as to taste                                                                                                                                          |
+| <span>&#10003;</span> | Boondi                  | 1 cup (optional)                                                                                                                                              |
+| <span>&#10003;</span> | Peanuts                 | 1/4th cup                                                                                                                                                     |
+| <span>&#10003;</span> | Kashmiri chili powder   | 1 & 1/2tbsp                                                                                                                                                   |
+| <span>&#10003;</span> | Mint sauce              | 1/2 cup (preparing my grandmum's easy mint chutney will be a separate recipe soon, usually a container of it is stowed in the fridge that lasts up to 15 days)|
+| <span>&#10003;</span> | Green chillies          | 2 finely chopped (optional)                                                                                                                                   |
 
 <br/>
 <br/>

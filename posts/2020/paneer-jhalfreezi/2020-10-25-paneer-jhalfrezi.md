@@ -4,7 +4,7 @@ description: Extremely tasty, very easy paneer dry curry best for weekday dinner
 pagetitle: Paneer Jhalfrezi
 summary: Paneer made in an extremely easy preparation that tastes great with rice or chapati, is a joy to the eyes and palate, great for weekday dinners or to please guests in short notice.
 date: '2020-10-25'
-update_date: '2020-10-25'
+update_date: '2020-11-08'
 tags:
   - food
   - veg
@@ -13,6 +13,33 @@ label:
 slug: paneer-jhalfrezi-40-minutes
 published: true
 image: ./paneer_jhalfrezi.png
+prep_time: PT30M
+cook_time: PT10M
+recipe_category: Main Course
+recipe_cuisine: Indian
+recipe_ingredient: 
+  - Paneer (500gms)
+  - Cumin seeds (1/2 teaspoon)
+  - Cardamom (4 pods)     
+  - Cinnamon (1/2 inch)
+  - Fennel seeds (1/2 teaspoon)
+  - Cumin powder (1/2 teaspoon)
+  - Corriander powder (1/2 teaspoon)
+  - Turmeric powder (1/2 teaspoon)
+  - Red chilli powder (1/2 teaspoon)
+  - Salt (To taste)
+  - Sugar (1/2 teaspoon)
+  - Garlic (4 to 5 cloves minced)
+  - Spring onions (1 cup chopped)
+  - Onions (2 medium chopped)
+  - Red cabbage (1/2 cup chopped)
+  - Red/ yellow bell  (1/2 cup chopped)
+  - Star annise (1)
+  - Coriander leaves (1/2 cup)
+  - Mustard seeds (1/2 teaspoon)
+  - Dessicated coconut (1/2 cup)
+  - Cloves (2 to 3)
+  - Ketchup (2 tablespoons)
 ---
 
 Paneer is one such ingredient that comes as a saviour when you need a quick and easy meal without having to go through the trouble of finding something delicious easy and quick to make and what is best is it goes great with both rice and chapatis, for the more calorie conscious, just a bowl of paneer jhalfrezi can cover all the protein requirements with the goodness of veggies too.
@@ -61,25 +88,25 @@ Serves 6
 
 |                       | Ingredient             | Quantity             |
 |-----------------------|------------------------|----------------------|
-| <span>&#10003;</span> |  Paneer                | 500gms               |
+| <span>&#10003;</span> | Paneer                 | 500gms               |
 | <span>&#10003;</span> | Cumin seeds            | 1/2 teaspoon         |
 | <span>&#10003;</span> | Cardamom               | 4 pods               |
 | <span>&#10003;</span> | Cinnamon               | 1/2 inch             |
-| <span>&#10003;</span> | Fennel seeds           |  1/2 teaspoon        |
+| <span>&#10003;</span> | Fennel seeds           | 1/2 teaspoon         |
 | <span>&#10003;</span> | Cumin powder           | 1/2 teaspoon         |
-| <span>&#10003;</span> | Corriander powder      |  1/2 teaspoon        |
+| <span>&#10003;</span> | Corriander powder      | 1/2 teaspoon         |
 | <span>&#10003;</span> | Turmeric powder        | 1/2 teaspoon         |
-| <span>&#10003;</span> | Red chilli powder      |  1/2 teaspoon        |
+| <span>&#10003;</span> | Red chilli powder      | 1/2 teaspoon         |
 | <span>&#10003;</span> | Salt                   | To taste             |
 | <span>&#10003;</span> | Sugar                  | 1/2 teaspoon         |
 | <span>&#10003;</span> | Garlic                 | 4 to 5 cloves minced |
 | <span>&#10003;</span> | Spring onions          | 1 cup chopped        |
 | <span>&#10003;</span> | Onions                 | 2 medium chopped     |
-| <span>&#10003;</span> | Red cabbage            |  1/2 cup chopped     |
+| <span>&#10003;</span> | Red cabbage            | 1/2 cup chopped      |
 | <span>&#10003;</span> | Red/ yellow bell peper | 1/2 cup chopped      |
-| <span>&#10003;</span> | Star annise            |  1                   |
+| <span>&#10003;</span> | Star annise            | 1                    |
 | <span>&#10003;</span> | Coriander leaves       | 1/2 cup              |
-| <span>&#10003;</span> | Mustard seeds          |  1/2 teaspoon        |
+| <span>&#10003;</span> | Mustard seeds          | 1/2 teaspoon         |
 | <span>&#10003;</span> | Dessicated coconut     | 1/2 cup              |
 | <span>&#10003;</span> | Cloves                 | 2 to 3               |
 | <span>&#10003;</span> | Ketchup                | 2 tablespoons        |

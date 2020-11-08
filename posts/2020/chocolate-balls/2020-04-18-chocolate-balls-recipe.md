@@ -4,7 +4,7 @@ description: The fastest chocolate ball recipe with minimal ingredients and with
 pagetitle: Chocolate balls in 10 Minutes
 summary: The fastest chocolate ball recipe with minimal ingredients and with lowest priced products.
 date: '2020-04-18'
-update_date: '2020-04-18'
+update_date: '2020-11-08'
 tags:
   - food
   - veg
@@ -13,6 +13,18 @@ label:
 slug: chocolate-balls-recipe-10-minutes
 published: true
 image: ./chocolate_ball.png
+prep_time: PT10M
+cook_time: PT0M
+recipe_category: Dessert
+recipe_cuisine: American
+recipe_ingredient: 
+  - Left over tea cake/ dry cake ( any flavour but turns out best with chocolate or vanilla based cakes) (500gms)
+  - Chocolate syrup (1 Cup)
+  - Hot chocolate powder sweetened (1/2 Cup)     
+  - Desiccated coconut (1/2 cup (optional))
+  - Chopped mixed nuts (1/4 cup (optional))
+  - Instant coffee (1 tablespoon)
+  - Castor sugar (To Taste)
 ---
 
 **Every**{: .firstword} once in a while we totally need an easy cheat, a mouthful of happiness in this super duper easy to make chocolate ball.
@@ -38,9 +50,9 @@ So lets get started.....
 
 <br/>
 
-|    Total Cooking        | Time   |
+|    Division  | Time   |
 |--------------|--------|
-| Total TIME    | 10 mins |
+| Total TIME   | 10 mins |
 
 <br/>
 
@@ -52,15 +64,15 @@ Makes 10 to 12 serves
 
 <br/>
 
-| ab                    | Ingredient                                                              | Quantity           |
-|-----------------------|-------------------------------------------------------------------------|--------------------|
-| <span>&#10003;</span> |  Left over tea cake/ dry cake <br/> ( any flavour but turns out best with chocolate or vanilla based cakes)                                          | 500gms             |
-| <span>&#10003;</span> | Chocolate syrup                                                         | 1 Cup              |
-| <span>&#10003;</span> | Hot chocolate powder sweetened                                          | 1/2 Cup            |
-| <span>&#10003;</span> | Desiccated coconut                                                      | 1/2 cup (optional) |
-| <span>&#10003;</span> | Chopped mixed nuts                                                      | 1/4 cup (optional) |
-| <span>&#10003;</span> | Instant coffee                                                          | 1 tablespoon       |
-| <span>&#10003;</span> | Castor sugar                                                            | To Taste           |
+| ab                    | Ingredient                                                                                                | Quantity           |
+|-----------------------|-----------------------------------------------------------------------------------------------------------|--------------------|
+| <span>&#10003;</span> | Left over tea cake/ dry cake <br/> ( any flavour but turns out best with chocolate or vanilla based cakes)| 500gms             |
+| <span>&#10003;</span> | Chocolate syrup                                                                                           | 1 Cup              |
+| <span>&#10003;</span> | Hot chocolate powder sweetened                                                                            | 1/2 Cup            |
+| <span>&#10003;</span> | Desiccated coconut                                                                                        | 1/2 cup (optional) |
+| <span>&#10003;</span> | Chopped mixed nuts                                                                                        | 1/4 cup (optional) |
+| <span>&#10003;</span> | Instant coffee                                                                                            | 1 tablespoon       |
+| <span>&#10003;</span> | Castor sugar                                                                                              | To Taste           |
 
 <br/>
 

@@ -4,7 +4,7 @@ description: Indian style fast and easy combination of chicken with potatoes, be
 pagetitle: Chicken with Potato Gravy
 summary: Indian/bengali style fast and easy combination of potatoes and chicken, with the beautiful aroma of spices and an array of texture ranging from succulent chicken to the spongy potatoes.
 date: '2020-11-05'
-update_date: '2020-11-05'
+update_date: '2020-11-08'
 tags:
   - food
   - non veg
@@ -13,6 +13,35 @@ label:
 slug: chicken-with-potatoes-gravy-35-mins
 published: true
 image: ./chicken-with-potatoes-gravy.png
+prep_time: PT15M
+cook_time: PT20M
+recipe_category: Main Course
+recipe_cuisine: Indian
+recipe_ingredient:
+  - Chicken on bone (1kg)          
+  - Potatoes (6 to 8 halved)
+  - Onions (2 medium)    
+  - Coriander leaves (1 cup)
+  - Spring onions (1 cup)
+  - Tomatoes (2 chopped)
+  - Garlic cloves (10)
+  - Lemon juice (1 lemon)
+  - Chat masala (1 tbsp)
+  - Ginger paste (optional)
+  - Cardamom powder (1 teaspoon)
+  - Meat masala powder (1 teaspoon)
+  - Khada Garam masala  (1tbsp or as to taste)
+  - Garlic Powder (1 tbsp‚
+  - Cinnamon powder (1 teaspoon)
+  - Kashmiri chili powder (1 1/2tbsp)
+  - Coriander powder (2 tbsp)
+  - Cumin powder (1 1/2 tbsp)
+  - Turmeric powder (1 teaspoon)
+  - Sugar (1/4 teaspoon)
+  - Salt (To taste)
+  - Oil (2 to 3 tablespoon)
+  - Mace powder (1/3 teaspoon)
+  - Nutmeg powder (1/3 teaspoon)
 ---
 
 <br/>
@@ -83,7 +112,7 @@ Serves 4 to 6
 | <span>&#10003;</span> | Cardamom powder           | 1 teaspoon           |
 | <span>&#10003;</span> | Meat masala powder        | 1 teaspoon           |
 | <span>&#10003;</span> | Khada Garam masala powder | 1tbsp or as to taste |
-| <span>&#10003;</span> | Garlic Powder             |  1 tbsp              |
+| <span>&#10003;</span> | Garlic Powder             | 1 tbsp               |
 | <span>&#10003;</span> | Cinnamon powder           | 1 teaspoon           |
 | <span>&#10003;</span> | Kashmiri chili powder     | 1 1/2tbsp            |
 | <span>&#10003;</span> | Coriander powder          | 2 tbsp               |
