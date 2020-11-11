@@ -8,6 +8,9 @@ update_date: '2020-11-08'
 tags:
   - food
   - non veg
+keywords:
+  - food
+  - non veg
 label:
   - Fish Curry
 slug: bengali-style-vinegar-fish-45-minutes

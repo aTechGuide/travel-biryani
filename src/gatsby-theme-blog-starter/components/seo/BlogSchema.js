@@ -11,7 +11,7 @@ const blogSchema = (frontmatter, image, site, file) => {
     },
     "datePublished": frontmatter.date,
     "description": frontmatter.description,
-    "keywords": frontmatter.tags.concat(site.siteMetadata.keywords),
+    "keywords": frontmatter.keywords,
     "prepTime": frontmatter.prep_time,
     "cookTime": frontmatter.cook_time,
     "recipeCategory": frontmatter.recipe_category,

@@ -8,6 +8,9 @@ update_date: '2020-11-08'
 tags:
   - food
   - veg
+keywords:
+  - food
+  - veg
 label:
   - Pita Bread
 slug: pita-bread-2-hours

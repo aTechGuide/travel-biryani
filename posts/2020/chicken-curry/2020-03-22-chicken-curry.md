@@ -8,6 +8,9 @@ update_date: '2020-11-08'
 tags:
   - food
   - non veg
+keywords:
+  - food
+  - non veg
 label:
   - Chicken
 slug: chicken-curry-20-minutes
