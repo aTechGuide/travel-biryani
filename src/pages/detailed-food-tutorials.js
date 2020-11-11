@@ -10,8 +10,8 @@ const About = () => {
     <Seo 
       title="Detailed and Easy Food Recipes for beginners"
       description="Detailed and Easy Food Recipes for beginners. Easy vegetarian recipes and non vegetarian recipes with step by step instructions and pictures"
-      tags={["Detailed Food Tutorials", "vegetarian recipes", "non vegetarian recipes"]}
-      slug="/detailed-food-tutorials"  />
+      keywords={["Detailed Food Tutorials", "vegetarian recipes", "non vegetarian recipes"]}
+      slug="detailed-food-tutorials"  />
     
     <AboutLayout />
   </Layout>

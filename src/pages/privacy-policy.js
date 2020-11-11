@@ -10,8 +10,8 @@ const privacyPolicy = () => {
       <Seo 
         title="Privacy Policy Travel Biryani - Detailed and Easy Food Recipes"
         description="Privacy Policy of Travel Biryani"
-        tags={["Privacy Policy"]}
-        slug="/privacy-policy" />
+        keywords={["Privacy Policy"]}
+        slug="privacy-policy" />
         
       <PageLayout title="Privacy Policy">
         <p>Last Updated: 03 September 2019</p>
