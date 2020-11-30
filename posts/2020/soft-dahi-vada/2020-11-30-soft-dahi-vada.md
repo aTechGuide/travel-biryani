@@ -54,7 +54,7 @@ Due to the hot tropical environment, curd and youghurt are consumed in various w
 
 <br/>
 
-Well the answer to this was dahi vada, that has many many different varities and is an ancient dish. It is also consumed during vraths (fasts) and has Rajasthani dahi vada and Gujrati dahi vada recipe variations also. Well also it is consumed largely during the holy montg of Ramadan
+Well the answer to this was dahi vada, that has many many different varities and is an ancient dish. It is also consumed during vraths (fasts) and has Rajasthani dahi vada and Gujrati dahi vada recipe variations also. Well also it is consumed largely during the holy month of Ramadan
 
 <br/>
 
