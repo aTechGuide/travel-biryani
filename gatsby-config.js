@@ -70,6 +70,7 @@ module.exports = {
           "script-src": "'self' 'unsafe-inline' www.google-analytics.com c.disquscdn.com travel-biryani.disqus.com", //<- 'unsafe-inline' is unsafe and is required by Disqus
           "style-src": "'self' 'unsafe-inline' c.disquscdn.com", //<- "'unsafe-inline'" should be avoided but the plugin was broken with mergeStyleHashes
           "img-src": "'self' data: www.google-analytics.com referrer.disqus.com c.disquscdn.com",
+          "form-action": "'self' sendfox.com/form/3z22dz/1d5wpj",
           "connect-src": "'self' www.google-analytics.com"
         }
       }
