@@ -28,7 +28,7 @@ module.exports = {
         postsPath: "posts",
         imagesPath: "images",
         postsPerPage: "12",
-        mailchimpURL: ""
+        mailchimpURL: "https://sendfox.com/form/3z22dz/1d5wpj"
       },
     },
     {
