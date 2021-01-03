@@ -32,7 +32,7 @@ const Subscribe = () => {
           </Typography>
           <form action={mailchimpURL} 
             method="post" 
-            className="sendfox-form" id="1d5wpj"
+            className="sendfox-form" id="1d5wpj" data-async="true" data-recaptcha="false"
             target="_blank" noValidate>
             <TextField
               type="text"
@@ -64,6 +64,9 @@ const Subscribe = () => {
               fullWidth
               required
             />
+
+            <label><input type="checkbox" name="gdpr" value="1" required /> I agree to receive email updates and promotions.</label>
+
             {/* real people should not fill this in and expect good things - do not remove this or risk form bot signups */}
             <div style={{position: 'absolute', left: '-5000px'}} aria-hidden="true">
             	<input type="text" name="a_password" tabIndex="-1" defaultValue="" autoComplete="off" />
