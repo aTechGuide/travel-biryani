@@ -22,7 +22,7 @@ keywords:
 label:
   - Oats Walnut Banana Bread
 slug: oats-walnut-banana-bread-40-minutes
-published: true
+published: false
 image: ./oats-walnut-banana-bread.jpeg
 prep_time: PT10M
 cook_time: PT30M

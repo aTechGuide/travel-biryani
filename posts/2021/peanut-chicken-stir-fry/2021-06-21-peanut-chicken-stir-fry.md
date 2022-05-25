@@ -22,7 +22,7 @@ keywords:
 label:
   - Peanut Chicken Stir Fry
 slug: peanut-chicken-stir-fry-30-minutes
-published: true
+published: false
 image: ./peanut-chicken-stir-fry.jpeg
 prep_time: PT30M
 cook_time: PT15M
