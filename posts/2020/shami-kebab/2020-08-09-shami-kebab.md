@@ -14,7 +14,7 @@ keywords:
 label:
   - Shami Kebab
 slug: chicken-shami-kebab-1-hour
-published: true
+published: false
 image: ./chicken_shami_kebab_final.png
 prep_time: PT30M
 cook_time: PT30M
