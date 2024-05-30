@@ -22,7 +22,7 @@ keywords:
 label:
   - Coconut Prawn Curry
 slug: coconut-prawn-curry-30-minutes
-published: true
+published: false
 image: ./coconut-prawn-curry-cover.jpeg
 prep_time: PT15M
 cook_time: PT15M
