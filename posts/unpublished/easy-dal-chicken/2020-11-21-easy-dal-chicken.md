@@ -22,7 +22,7 @@ keywords:
 label:
   - Chicken
 slug: easy-dal-chicken-30-minutes
-published: true
+published: false
 image: ./daal_chicken.png
 prep_time: PT10M
 cook_time: PT10M
